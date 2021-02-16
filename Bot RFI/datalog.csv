@@ -1,0 +1,745 @@
+TIMESTAMP   MAIL  ISTRUZIONE
+06/12/2020-12:54:48	Andrea Barbiera <andrea.barbiera@gmail.com>	invia hello-world impianti
+06/12/2020-12:56:36	Andrea Barbiera <andrea.barbiera@gmail.com>	invia hello-world impianti
+18/12/2020-19:23:43	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1
+18/12/2020-19:35:53	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1
+18/12/2020-20:07:31	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1
+18/12/2020-20:45:11	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1 sender=Marco_Rossi
+19/12/2020-03:10:12	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+19/12/2020-17:20:11	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=Claudio cognome=Bianchi e-mail=c.bianchi@rfi.it
+privilegi=stakeholder"
+19/12/2020-17:24:59	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=Claudio cognome=Bianchi e-mail=c.bianchi@rfi.it
+privilegi=stakeholder"
+19/12/2020-18:54:47	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica e-mail=m.rossi@rfi.it privilegi=stakeholder
+19/12/2020-18:56:54	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica e-mail=m.rossi@rfi.it privilegi=stakeholder
+19/12/2020-19:20:45	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=m.rossi@rfi.it
+22/12/2020-15:39:17	Andrea Barbiera <andrea.barbiera@gmail.com>	allega RomaTermini impianti
+22/12/2020-16:13:25	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+22/12/2020-20:47:31	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=Claudio cognome=Bianchi e-mail=c.bianchi@rfi.it
+privilegi=area_tecnica"
+22/12/2020-20:48:27	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica e-mail=c.bianchi@rfi.it privilegi=stakeholder
+22/12/2020-20:49:09	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+22/12/2020-20:50:39	Andrea Barbiera <andrea.barbiera@gmail.com>	manda note object=arg1 sender=Marco_Rossi
+22/12/2020-20:52:50	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+22/12/2020-22:01:49	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=Claudio cognome=Bianchi e-mail=c.bianchi@rfi.it
+privilegi=area_tecnica"
+22/12/2020-22:02:49	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica e-mail=c.bianchi@rfi.it privilegi=stakeholder
+22/12/2020-22:03:27	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+22/12/2020-22:05:01	Andrea Barbiera <andrea.barbiera@gmail.com>	manda note object=arg1 sender=Marco_Rossi
+22/12/2020-22:06:55	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+22/12/2020-22:08:32	Andrea Barbiera <andrea.barbiera@gmail.com>	allega RomaTermini impianti
+25/12/2020-00:53:26	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+25/12/2020-00:53:26	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+25/12/2020-01:17:33	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+25/12/2020-01:17:33	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+25/12/2020-02:05:21	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+25/12/2020-02:05:24	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+25/12/2020-02:06:37	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+25/12/2020-02:06:37	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+25/12/2020-02:17:19	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+25/12/2020-02:17:19	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+25/12/2020-02:19:28	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+25/12/2020-02:19:28	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+25/12/2020-03:16:02	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+26/12/2020-11:47:02	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note sender=Marco_Rossi object=arg1
+26/12/2020-11:47:40	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note sender=Marco_Rossi object=arg1
+26/12/2020-11:48:27	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note sender=Marco_Rossi object=arg1
+26/12/2020-11:48:51	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note sender=Marco_Rossi object=arg1
+26/12/2020-11:58:02	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaTermini impianti modificabile
+26/12/2020-11:58:56	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaTermini impianti
+30/12/2020-19:13:30	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaCentrale impianti
+30/12/2020-19:14:21	Andrea Barbiera <andrea.barbiera@gmail.com>	invia RomaCentrale impianti editabile
+30/12/2020-19:17:06	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaCentrale impianti editabile
+30/12/2020-19:17:52	Andrea Barbiera <andrea.barbiera@gmail.com>	asdrubale annibale
+30/12/2020-19:19:46	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1
+30/12/2020-19:20:28	Andrea Barbiera <andrea.barbiera@gmail.com>	invia jelle object=arg1
+30/12/2020-19:22:02	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi c.bianchi@rfi.it
+30/12/2020-19:24:59	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1 sender=tizio
+30/12/2020-19:27:20	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP fbjbvsksdvjksjv
+30/12/2020-21:47:33	Andrea Barbiera <andrea.barbiera@gmail.com>	invia RomaTermini impianti gggggg
+30/12/2020-22:41:06	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaTermini impianti gggg
+31/12/2020-18:58:52	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia Report RomaTermini impianti
+31/12/2020-19:15:29	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia Report RomaTermini impianti
+31/12/2020-22:38:03	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia Report RomaTermini impianti
+13/01/2021-01:44:24	giovanni.muciaccia@neal.com	invia RomaTermini telecamere
+19/01/2021-10:44:18	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=Claudio cognome=Bianchi e-mail=c.bianchi@rfi.it
+privilegi=area_tecnica"
+19/01/2021-10:46:19	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=Claudio cognome=Bianchi e-mail=c.bianchi@rfi.it
+privilegi=impiegato"
+19/01/2021-10:50:03	Andrea Barbiera <andrea.barbiera@gmail.com>	"AGGIUNGI nome=Claudio cognome=Rossi e-mail=C.rossi@rfi.it
+privilegi=area_tecnica"
+19/01/2021-10:58:00	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi nome=claudio cognome=bianchi e-mail=C.bianchi@rfi.it
+19/01/2021-11:12:02	Andrea Barbiera <andrea.barbiera@gmail.com>	"AGGIUNGI nome=Claudio cognome=Rossi ciao=C.rossi@rfi.it
+privilegi=area_tecnica"
+19/01/2021-11:23:30	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi mail=c.bianchi@rfi.it
+19/01/2021-11:26:21	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi mail=c.bianchi@rfi.it nome=Gianni
+19/01/2021-11:27:17	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi nome=Gianni e-mail=c.bianchi@rfi.it
+19/01/2021-11:28:45	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+19/01/2021-12:51:41	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.djelle@rfi.it privilegi=admin
+19/01/2021-12:52:56	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=stakeholder
+19/01/2021-12:54:39	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-12:56:57	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica tulu=waba e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-13:02:33	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica e-mail=c.bianchi@rfi.it privilegi=impiegato tulu=waba
+19/01/2021-15:26:08	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Toscana
+19/01/2021-15:26:48	Andrea Barbiera <andrea.barbiera@gmail.com>	invia ip toscana tulu
+19/01/2021-15:28:47	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP Tosc
+19/01/2021-15:56:53	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1 sender=marco_rossi
+19/01/2021-16:39:48	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1 sendder=marco_rossi
+19/01/2021-16:43:33	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1 sender=asdrubale
+19/01/2021-16:45:18	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note object=arg1 sender=asdrubale
+19/01/2021-17:01:11	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaTermini impianti
+19/01/2021-17:03:25	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaTermini ipianti
+19/01/2021-18:52:30	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it ciao
+19/01/2021-19:19:15	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-19:22:14	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-19:29:42	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-19:31:05	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-19:41:09	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-19:42:54	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=impiegato
+19/01/2021-21:39:10	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=Claudio cognome=Bianchi e-mail=c.bianchi@rfi.it
+privilegi=area_tecnica"
+19/01/2021-21:46:50	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=c.bianchi@rfi.it
+19/01/2021-21:52:31	Andrea Barbiera <andrea.barbiera@gmail.com>	MODIFICA e-mail=c.bianchi@rfi.it privilegi=stakeholder
+25/01/2021-01:41:42	Andrea Barbiera <andrea.barbiera@gmail.com>	invia log
+25/01/2021-21:42:59	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+25/01/2021-21:46:59	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+25/01/2021-21:59:24	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+26/01/2021-01:48:26	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+26/01/2021-10:53:46	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi nome=Marco cognome=Tesei e-mail=m.tesei@rfi.it privilegi=admin
+26/01/2021-10:56:34	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi e-mail=m.biondi@rfi.it
+26/01/2021-10:58:07	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica e-mail=g.verdi@rfi.it privilegi=stakeholder
+26/01/2021-11:00:52	Andrea Barbiera <andrea.barbiera@gmail.com>	invia log
+26/01/2021-11:06:48	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note sender=arg1 sender=marco_rossi
+26/01/2021-11:10:40	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaTermini impianti
+26/01/2021-11:11:38	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report RomaTermini impianti modificabile
+26/01/2021-11:22:03	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP stazione=Firenze
+26/01/2021-11:23:01	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP stazione=Firenze
+26/01/2021-11:24:32	Andrea Barbiera <andrea.barbiera@gmail.com>	invia IP stazione=firenze
+26/01/2021-11:26:14	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+28/01/2021-18:23:05	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia IP firenzee
+28/01/2021-18:25:33	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia IP firenzee
+28/01/2021-18:27:34	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia IP firenze
+28/01/2021-18:29:30	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note oggetto=polfer
+28/01/2021-18:30:13	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note oggetto=boh
+28/01/2021-18:37:21	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note oggetto=boh
+28/01/2021-18:38:03	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note oggetto=boh
+28/01/2021-18:40:15	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note tulu=polfer
+28/01/2021-18:41:54	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia report dula impianti
+28/01/2021-19:13:21	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia report dula impianti
+28/01/2021-19:31:47	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi utente nome=daniela cognome=lepore e-mail=
+daniela.lepore65@gmail.com privilegi=admin"
+28/01/2021-19:33:12	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=daniela cognome=lepore e-mail=daniela.lepore65@gmail.com
+ privilegi=admin"
+28/01/2021-19:50:31	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=daniela cognome=lepore mail=daniela.lepore65@gmail.com
+ privilegi=admin"
+28/01/2021-19:51:46	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=daniela cognome=lepore mail=daniela.lepore65@gmail.com
+ privilegi=admin"
+28/01/2021-19:52:12	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=daniela cognome=lepore e-mail=daniela.lepore65@gmail.com
+ privilegi=admin"
+28/01/2021-19:53:46	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=daniela cognome=lepore mail=daniela.lepore65@gmail.com
+ privilegi=admin"
+28/01/2021-19:58:24	prova@rfi.it	invia RomaTermini telecamere
+01/02/2021-12:01:59	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini completo
+01/02/2021-12:03:09	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini telecamere modificabile
+01/02/2021-12:04:47	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini telecamere modificabile
+01/02/2021-12:06:50	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini telecamere modificabile
+01/02/2021-12:12:19	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini telecamere modificabile
+01/02/2021-12:17:22	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini telecamere modificabile
+01/02/2021-12:55:17	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report tuli telecamere
+01/02/2021-13:04:16	Andrea Barbiera <andrea.barbiera@gmail.com>	invia ip genovapp
+01/02/2021-16:02:27	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note oggetto=polfer
+01/02/2021-16:02:29	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note oggetto=boh
+01/02/2021-16:02:31	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia note tulu=polfer
+01/02/2021-16:02:33	Andrea Barbiera <andrea.barbiera@gmail.com>	Invia report dula impianti
+01/02/2021-16:02:34	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi nome=daniela cognome=lepore mail=daniela.lepore65@gmail.com
+ privilegi=admin"
+01/02/2021-17:46:12	Andrea Barbiera <andrea.barbiera@gmail.com>	invia ip genovapp
+03/02/2021-12:11:50	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report genovapp impianti modificabile
+03/02/2021-12:13:10	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report genovapp impianti modificabile
+03/02/2021-12:18:16	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report genovapp impianti modificabile
+03/02/2021-15:38:00	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+03/02/2021-15:40:06	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+03/02/2021-15:40:32	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+03/02/2021-15:51:44	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+03/02/2021-15:52:15	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+03/02/2021-16:21:51	TESEI MARCO <m.tesei@rfi.it>	"invia report romaterm
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle persone indicate. Non è consentita la diffusione, copia o qualsiasi altra azione derivante dalla conoscenza delle informazioni in esso contenute, salve le esigenze operative strettamente connesse all’attività lavorativa svolta. Qualora abbiate ricevuto questo messaggio per errore, siete invitati a darne immediata comunicazione al mittente e a provvedere alla sua cancellazione. Le risposte fornite dal destinatario del presente messaggio potranno essere conosciute nell’ambito dell’organizzazione di appartenenza del mittente e comunque utilizzate esclusivamente per le attività lavorative di competenza, nel rispetto delle vigenti norme di legge
+
+
+This message and its attachments are addressed exclusively to the recipient(s) named above. The diffusion, copying or any other action resulting from the knowledge of the information contained in it, is not permitted, except of the operations strictly connected to the authorized job activities. If you have received this message in error, you are invited to immediately notify the sender and delete all copies in your possession. The answers provided by the recipient of this message might be known within the organization of the sender's and however used exclusively for authorized job activities, in accordance by applicable law."
+03/02/2021-16:26:54	TESEI MARCO <m.tesei@rfi.it>	"invia profilo
+
+Scarica Outlook per Android<https://aka.ms/ghei36>
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle persone indicate. Non è consentita la diffusione, copia o qualsiasi altra azione derivante dalla conoscenza delle informazioni in esso contenute, salve le esigenze operative strettamente connesse all’attività lavorativa svolta. Qualora abbiate ricevuto questo messaggio per errore, siete invitati a darne immediata comunicazione al mittente e a provvedere alla sua cancellazione. Le risposte fornite dal destinatario del presente messaggio potranno essere conosciute nell’ambito dell’organizzazione di appartenenza del mittente e comunque utilizzate esclusivamente per le attività lavorative di competenza, nel rispetto delle vigenti norme di legge
+
+
+This message and its attachments are addressed exclusively to the recipient(s) named above. The diffusion, copying or any other action resulting from the knowledge of the information contained in it, is not permitted, except of the operations strictly connected to the authorized job activities. If you have received this message in error, you are invited to immediately notify the sender and delete all copies in your possession. The answers provided by the recipient of this message might be known within the organization of the sender's and however used exclusively for authorized job activities, in accordance by applicable law."
+03/02/2021-17:11:40	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romaterm
+03/02/2021-17:12:25	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romaterm
+03/02/2021-17:15:13	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romaterm
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legge"
+03/02/2021-17:20:29	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romaterm impianti
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legge"
+03/02/2021-17:22:13	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romatermini impianti
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legge"
+03/02/2021-17:52:29	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romatermini impianti
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legge"
+03/02/2021-17:56:01	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romatermini impianti modificabile
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legge"
+03/02/2021-17:56:55	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romatermini impianti modificabile
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legge"
+03/02/2021-17:57:50	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romaterm
+03/02/2021-17:59:25	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romaterm impianti
+03/02/2021-18:20:55	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia profilo
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legg"
+03/02/2021-18:21:32	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia profilo
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legg"
+03/02/2021-18:24:13	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo ciao
+03/02/2021-19:14:59	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romatermini impianti modificabile
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne immediata comunicazione al mittente e a provvedere alla
+sua cancellazione. Le risposte fornite dal destinatario del presente
+messaggio potranno essere conosciute nell’ambito dell’organizzazione di
+appartenenza del mittente e comunque utilizzate esclusivamente per le
+attività lavorative di competenza, nel rispetto delle vigenti norme di legge"
+03/02/2021-23:00:54	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi andrea.barbiera@gmail.com admin
+03/02/2021-23:03:12	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi andrea.barbiera@gmail.com admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze operative strettamente connesse all’attività lavorativa
+svolta. Qualora abbiate ricevuto questo messaggio per errore, siete
+invitati a darne"
+03/02/2021-23:04:27	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi andrea.barbiera@gmail.com
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:07:19	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi daniela.lepore65@gmail.com <andrea.barbiera@gmail.com> admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:11:18	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi daniela.lepore65@gmail.com <andrea.barbiera@gmail.com> admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:15:00	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi daniela.lepore65@gmail.com <andrea.barbiera@gmail.com> admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:23:35	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi andrea.barbiera@hotmail.it admin
+03/02/2021-23:26:31	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi daniela.lepore65@gmail.com <andrea.barbiera@gmail.com> admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:29:06	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi andrea.barbiera@hotmail.it admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:30:12	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi daniela.lepore65@gmail.com admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:31:58	Andrea Barbiera <andrea.barbiera@gmail.com>	"aggiungi andrea.barbiera@hotmail.it admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+03/02/2021-23:41:09	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi ciao admin
+03/02/2021-23:44:03	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi andrea.barbiera@hotmail.it dula
+04/02/2021-00:11:37	Andrea Barbiera <andrea.barbiera@gmail.com>	"rimuovi m.rossi@rfi.it
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-00:13:26	Andrea Barbiera <andrea.barbiera@gmail.com>	"rimuovi m.rossi@rfi.it
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-00:14:29	Andrea Barbiera <andrea.barbiera@gmail.com>	"rimuovi m.rossi@rfi.it
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-00:16:16	Andrea Barbiera <andrea.barbiera@gmail.com>	"rimuovi
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-00:17:40	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi ciao ciao
+04/02/2021-01:13:58	Andrea Barbiera <andrea.barbiera@gmail.com>	"modifica andrea.barbiera@hotmail.it stakeholder
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-01:15:23	Andrea Barbiera <andrea.barbiera@gmail.com>	"modifica andrea.barbiera@hotmail.it stakeholder
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-01:17:13	Andrea Barbiera <andrea.barbiera@gmail.com>	"modifica andrea.barbiera@hotmail.it dipendente
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-01:18:23	Andrea Barbiera <andrea.barbiera@gmail.com>	"modifica ciao admin
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-01:20:24	Andrea Barbiera <andrea.barbiera@gmail.com>	"modifica andrea.barbiera@hotmail.it
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-01:21:47	Andrea Barbiera <andrea.barbiera@gmail.com>	"modifica
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-01:23:25	Andrea Barbiera <andrea.barbiera@gmail.com>	"MODIFICA ANDREA.BARBIERA@HOTMAIL.IT ADMIN
+
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:00:40	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA IP POGGIBONSI
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:05:00	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA IP
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:08:00	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA IP GENOVAPP CIAO
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:15:48	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA LOG
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:17:16	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA LOG CIAO
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:18:20	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA LOG
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:19:02	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA LOG
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:19:39	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA LOG
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:21:07	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA LOG
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:25:25	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA PROFILO
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:26:34	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA PROFILO CIAO
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-02:28:25	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA PROFILO
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-10:01:57	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA NOTE OGGETTO=POLFER MITTENTE=M.ROSSI
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-10:03:24	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA NOTE OGGETTO=POLFER MITTENTE=M.ROSSI
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-10:04:36	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA NOTE OGGETTO=POLFER MITTENTE=M.ROSSI
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-10:07:28	Andrea Barbiera <andrea.barbiera@gmail.com>	"INVIA NOTE OGGETTO=POLFER
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-10:13:58	Andrea Barbiera <andrea.barbiera@gmail.com>	INVIA NOTE OGGETTO=BOH CIAO=CIAO CASA
+04/02/2021-10:14:59	Andrea Barbiera <andrea.barbiera@gmail.com>	INVIA NOTE OGGETTO=BOH CIAO=CIAO
+04/02/2021-10:39:01	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romaterm
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-10:42:13	Andrea Barbiera <andrea.barbiera@gmail.com>	"invia report romatermini impianti
+Scarica Outlook per Android <https://aka.ms/ghei36>
+
+
+
+Questo messaggio e i suoi allegati sono indirizzati esclusivamente alle
+persone indicate. Non è consentita la diffusione, copia o qualsiasi altra
+azione derivante dalla conoscenza delle informazioni in esso contenute,
+salve le esigenze op"
+04/02/2021-10:46:32	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report palermocentrale completo
+04/02/2021-11:11:39	Andrea Barbiera <andrea.barbiera@gmail.com>	ciao
+04/02/2021-13:06:13	Andrea Barbiera <andrea.barbiera@gmail.com>	invia
+04/02/2021-13:07:44	Andrea Barbiera <andrea.barbiera@gmail.com>	ciao
+04/02/2021-15:25:14	Andrea Barbiera <andrea.barbiera@gmail.com>	
+09/02/2021-16:13:16	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini manutenzione
+09/02/2021-16:32:49	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report santamarian telecamere
+09/02/2021-17:10:16	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note oggetto=ciao
+09/02/2021-17:26:37	Google <no-reply@accounts.google.com>	"[image: Google]
+
+
+
+Visualizza e gestisci le impostazioni sulla privacy con il Controllo privacy
+bot.areatecnica.dpa@gmail.com
+
+
+È il momento di controllare le impostazioni sulla privacy nel tuo Account
+Google. Controlla e modifica i dati utilizzati da Google per personalizzare
+la tua esperienza, nonché le informazioni che vuoi condividere con amici o
+rendere pubbliche.
+Aggiorna le tue impostazioni
+<https://myaccount.google.com/privacycheckup/1?pc_email=bot.areatecnica.dpa%40gmail.com&hl=en&utm_source=ppr&utm_medium=email&utm_campaign=signup-fast-privacyreminder-start-link>.
+Bastano pochi minuti.
+
+
+
+Controlla le impostazioni sulla privacy
+<https://myaccount.google.com/privacycheckup/1?pc_email=bot.areatecnica.dpa%40gmail.com&hl=en&utm_source=ppr&utm_medium=email&utm_campaign=signup-fast-privacyreminder-start-button>
+<https://myaccount.google.com/privacycheckup/1?pc_email=bot.areatecnica.dpa%40gmail.com&hl=en&utm_source=ppr&utm_medium=email&utm_campaign=signup-fast-privacyreminder-start-button>
+Il Controllo privacy è disponibile nella pagina Account Google (
+https://account.google.com
+<https://account.google.com/smartlink/home?hl=en&utm_source=ppr&utm_medium=email&utm_campaign=ppr>
+)
+© 2021 Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland"
+10/02/2021-10:02:11	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi andrea.barbiera@hotmail.it area_tecnica
+10/02/2021-10:09:42	Andrea Barbiera <andrea.barbiera@gmail.com>	aggiungi daniela.lepore65@gmail.com area_tecnica
+10/02/2021-10:14:29	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report genovapp impianti modificabile
+10/02/2021-10:16:19	Andrea Barbiera <andrea.barbiera@gmail.com>	invia note oggetto=polfer
+10/02/2021-10:18:32	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica andrea.barbiera@hotmail.it user
+10/02/2021-10:19:57	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report genovapp impianti modificabile
+10/02/2021-10:28:00	Andrea Barbiera <andrea.barbiera@gmail.com>	invia profilo
+10/02/2021-10:30:00	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report palermocentrale completo
+10/02/2021-10:31:53	Andrea Barbiera <andrea.barbiera@gmail.com>	rimuovi andrea.barbiera@hotmail.it
+10/02/2021-10:33:11	Andrea Barbiera <andrea.barbiera@gmail.com>	invia log
+10/02/2021-10:52:58	Andrea Barbiera <andrea.barbiera@gmail.com>	invia guida
+10/02/2021-10:55:32	Andrea Barbiera <andrea.barbiera@gmail.com>	invia guida
+10/02/2021-10:57:34	Andrea Barbiera <andrea.barbiera@gmail.com>	invia guida
+10/02/2021-10:58:43	Andrea Barbiera <andrea.barbiera@gmail.com>	invia guida
+10/02/2021-10:59:44	Andrea Barbiera <andrea.barbiera@gmail.com>	invia guida
+10/02/2021-11:00:17	Andrea Barbiera <andrea.barbiera@gmail.com>	invia guida
+14/02/2021-18:55:40	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romacentrale telecamere
+14/02/2021-18:58:11	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romacentrale telecamere
+14/02/2021-19:02:33	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini
+14/02/2021-19:09:19	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini
+14/02/2021-19:11:05	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini
+14/02/2021-19:16:41	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini
+14/02/2021-19:17:46	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini
+14/02/2021-19:21:38	Andrea Barbiera <andrea.barbiera@gmail.com>	invia report romatermini
+14/02/2021-19:27:22	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica andrea.barbiera@hotmail.it user
+14/02/2021-19:28:07	Andrea Barbiera <andrea.barbiera@gmail.com>	modifica andrea.barbiera@hotmail.it user

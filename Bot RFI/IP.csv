@@ -1,0 +1,15 @@
+ASSET,IP_FIS,IP_VIR1,IP_VIR2
+baricentrale,2.2.2.2,2.2.2.2,2.2.2.2
+bolognacentrale,2.3.6.5,2.3.6.5,2.3.6.5      
+firenzesmn,26.26.5.8,26.26.5.8,26.26.5.8
+genovabrignole,8.8.8.8,8.8.8.8,8.8.8.8
+genovapp,5.5.55.2,8.8.8.8,5.5.5.5
+milanocentrale,1.1.1.1,1.1.1.1,1.1.1.1
+napolicentrale,2.3.6.5,2.3.6.5,2.3.6.5
+palermocentrale,2.3.6.5,2.3.6.5,2.3.6.5
+romatermini,26.26.5.8,26.26.5.8,26.26.5.8
+romatiburtina,8.8.8.8,8.8.8.8,8.8.8.8
+torinopn,2.3.6.5,2.3.6.5,2.3.6.5
+veneziamestre,2.3.6.5,2.3.6.5,2.3.6.5
+veneziasl,2.2.2.2,2.2.2.2,2.2.2.2
+veronapn,2.3.6.5,2.3.6.5,2.3.6.5
